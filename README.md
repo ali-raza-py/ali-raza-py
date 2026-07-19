@@ -88,7 +88,8 @@ This repository showcases my learning journey in **Python**, **Generative AI**, 
 
 <br/>
 
-## Metrics
+## 🌟 Developer Snapshot
+
 
 <div align="center">
 
@@ -109,7 +110,7 @@ This repository showcases my learning journey in **Python**, **Generative AI**, 
 
 <br/>
 
-## 🧊 3D Contribution Graph
+## 🧊 Snake Contribution chart
 
 <div align="center">
 
