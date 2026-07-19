@@ -3,7 +3,6 @@ name: GitHub Metrics
 on:
   schedule:
     - cron: "0 0 * * *"
-
   workflow_dispatch:
 
 jobs:
@@ -13,21 +12,68 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
+          # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
 
+          # Your username
           user: ali-raza-py
 
-          template: classic
+          # Terminal style dashboard
+          template: terminal
 
+          # Main information
           base: header, activity, community, repositories, metadata
 
+          # Timezone
           config_timezone: Asia/Karachi
 
+          # Display settings
+          config_display: large
+
+          # =====================
+          # Language statistics
+          # =====================
           plugin_languages: yes
           plugin_languages_limit: 8
+          plugin_languages_sections: most-used
+          plugin_languages_details: percentage
+          plugin_languages_analysis_timeout: 15
 
+          # =====================
+          # Contribution calendar
+          # =====================
           plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
 
+          # =====================
+          # Coding habits
+          # =====================
+          plugin_habits: yes
+          plugin_habits_facts: yes
+
+          # =====================
+          # GitHub activity
+          # =====================
+          plugin_activity: yes
+          plugin_activity_limit: 5
+
+          # =====================
+          # Achievements
+          # =====================
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+
+          # =====================
+          # Repository topics
+          # =====================
+          plugin_topics: yes
+
+          # =====================
+          # Star history
+          # =====================
           plugin_stars: yes
 
+          # =====================
+          # Follow-up activity
+          # =====================
           plugin_followup: yes
