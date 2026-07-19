@@ -13,7 +13,10 @@ jobs:
       contents: write
 
     steps:
-      - name: Generate snake
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate snake animation
         uses: Platane/snk@v3
         with:
           github_user_name: ali-raza-py
@@ -21,8 +24,12 @@ jobs:
             output/github-contribution-grid-snake.svg
             output/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Commit snake animation
+      - name: Commit generated files
         uses: EndBug/add-and-commit@v9
+        with:
+          message: "Generate snake animation"
+          add: "output"
+
         with:
           message: "Generate snake animation"
           add: "output"
