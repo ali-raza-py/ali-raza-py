@@ -115,9 +115,11 @@ This repository showcases my learning journey in **Python**, **Generative AI**, 
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ali-raza-py/ali-raza-py/output/github-contribution-grid-snake-dark.svg" width="90%"/>
+<img src="https://raw.githubusercontent.com/ali-raza-py/ali-raza-py/main/output/github-contribution-grid-snake.svg?refresh=1" alt="GitHub Contribution Snake"/>
 
 </div>
+
+
 
 > ⚙️ *This 3D/snake graph animates automatically once you add the free [`platane/snk`](https://github.com/Platane/snk) GitHub Action to this repo — it eats your contribution graph like a snake, right inside your README. Takes 2 minutes to set up and is a guaranteed "wait, how did you do that?" from any interviewer scrolling your profile.*
 
