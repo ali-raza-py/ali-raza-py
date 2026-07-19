@@ -116,9 +116,9 @@ This repository showcases my learning journey in **Python**, **Generative AI**, 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ali-raza-py/ali-raza-py/main/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ali-raza-py/ali-raza-py/main/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/ali-raza-py/ali-raza-py/main/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ali-raza-py/ali-raza-py/main/output/github-contribution-grid-snake-dark.svg?refresh=1">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ali-raza-py/ali-raza-py/main/output/github-contribution-grid-snake.svg?refresh=1">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/ali-raza-py/ali-raza-py/main/output/github-contribution-grid-snake.svg?refresh=1">
 </picture>
 
 </div>
