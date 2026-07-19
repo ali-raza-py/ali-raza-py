@@ -92,10 +92,9 @@ This repository showcases my learning journey in **Python**, **Generative AI**, 
 
 <div align="center">
 
-<img src="./github-metrics.svg" alt="GitHub Metrics Dashboard" />
+<img src="./github-metrics.svg?v=2" alt="GitHub Metrics Dashboard" />
 
 </div>
-
 
 
 
