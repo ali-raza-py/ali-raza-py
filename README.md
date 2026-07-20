@@ -176,7 +176,7 @@ This repository showcases my learning journey in **Python**, **Generative AI**, 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=120&section=footer"/>
 
-**Created ❤️ by Ali Raza**
+**Created With ❤️ by Ali Raza**
 
 </div>
 
