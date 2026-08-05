@@ -61,9 +61,7 @@ This repository showcases my learning journey in **Python**, **Generative AI**, 
 | Python Basics | Scholar Hat | Certificate ID: `JTH7291125` |
 | Python Programming | STEAM UP | — |
 | Google Gemini AI Certified Student | Google | [View Certificate](https://edu.google.accredible.com/40e78b0e-00b5-4f83-97e3-1e9c502b388d) |
-| Introduction to GenAI | Qwiklabs | [View Certificate](https://cdn.qwiklabs.com/VF6eQ1bV8SfqKBpu8AVD%2F4G93sg9wJQ0wWe9CTc%2FJ%2F4%3D) |
-| Responsible AI | Qwiklabs | [View Certificate](https://cdn.qwiklabs.com/6tckOOT%2FbCYrVDwPWyxmWFjvnl1Sv6yO3btQsuE%2F%2FI4%3D) |
-| Introduction to Large Language Models | Qwiklabs | [View Certificate](https://cdn.qwiklabs.com/licxd8JDS5%2FvJ3%2FcXDcU2Wmyj8Ii8Old17CuG49CW%2BM%3D) |
+
 
 <br/>
 
