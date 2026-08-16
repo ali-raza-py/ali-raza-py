@@ -105,3 +105,56 @@ Developer Tools
  ├── Git
  ├── GitHub
  └── Linux
+
+📊 GitHub Statistics
+<div align="center">
+
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ali-raza-py&show_icons=true&hide_border=true&theme=github_dark" width="48%" alt="Ali Raza's GitHub statistics" />
+
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ali-raza-py&layout=compact&hide_border=true&theme=github_dark" width="40%" alt="Ali Raza's most used languages" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com/?user=ali-raza-py&theme=github-dark-blue&hide_border=true" width="60%" alt="Ali Raza's GitHub streak" />
+
+</div>
+
+📈 Contribution Activity
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ali-raza-py&theme=github-compact&hide_border=true&area=true" width="95%" alt="GitHub contribution activity" />
+
+</div>
+
+🚀 Contribution Graph
+<div align="center"> <picture>
+
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ali-raza-py/ali-raza-py/output/galaga-contribution-graph-dark.svg" />
+
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ali-raza-py/ali-raza-py/output/galaga-contribution-graph.svg" />
+
+<img src="https://raw.githubusercontent.com/ali-raza-py/ali-raza-py/output/galaga-contribution-graph.svg" alt="GitHub Galaga contribution graph" />
+
+</picture> </div>
+
+| Certification                      | Platform    |
+| ---------------------------------- | ----------- |
+| Google Gemini AI Certified Student | Google      |
+| Python Programming                 | STEAM UP    |
+| Python Basics                      | Scholar Hat |
+
+
+🎯 Goals
+Build strong programming fundamentals
+Become proficient in Data Structures & Algorithms
+Build useful real-world software projects
+Contribute to open source
+Develop strong software engineering skills
+Continue exploring AI and modern software development
+
+📫 Connect With Me
+<div align="center"> <a href="https://www.linkedin.com/in/ali-r-a8a144391"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="mailto:btwaliraza110@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> </a> </div>
+
+<div align="center">
+Building skills. Building projects. Learning in public.
+</div> ```
