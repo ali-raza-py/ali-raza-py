@@ -108,6 +108,23 @@ This repository showcases my learning journey in **Python**, **Generative AI**, 
 
 <br/>
 
+## 🚀 My Contribution Graph
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/ali-raza-py/ali-raza-py/output/galaga-contribution-graph-dark.svg"
+  >
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/ali-raza-py/ali-raza-py/output/galaga-contribution-graph.svg"
+  >
+  <img
+    alt="Galaga contribution graph"
+    src="https://raw.githubusercontent.com/ali-raza-py/ali-raza-py/output/galaga-contribution-graph.svg"
+  >
+</picture>
+
 ## 🧊 Snake Contribution chart
 
 <div align="center">
