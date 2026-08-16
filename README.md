@@ -130,9 +130,18 @@ This repository showcases my learning journey in **Python**, **Generative AI**, 
 <br/>
 
 <div align="center">
-  ### ✍️ Quote I Live By
-  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-  <br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=120&section=footer"/>
-  **Created With ❤️ by Ali Raza**
+
+### ✍️ Developer Philosophy
+
+> **Build. Learn. Improve. Repeat.**
+
+<br/>
+
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=120&section=footer"
+  width="100%"
+/>
+
+**Created with ❤️ by Ali Raza**
+
 </div>
